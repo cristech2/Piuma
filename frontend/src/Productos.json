@@ -1,0 +1,248 @@
+[
+    {
+      "Categoria":  "Agendas",
+      "id": 1,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 2,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 3,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 4,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/d32776"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 5,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 6,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 7,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 8,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/54176f"
+    },
+    {
+      "Categoria": "Agendas",
+      "id": 9,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+      "Categoria":  "Agendas",
+      "id": 10,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/810b14"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 11,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 12,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/66b7d2"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 13,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/197d29"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 14,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/61a65"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 15,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/f9cee5"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 16,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/fdf73e"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 17,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/9c184f"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 18,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/1fe46f"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 19,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/56acb2"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 20,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/8985dc"
+    },
+    {
+      "Categoria": "Cuadernos",
+      "id": 21,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/5e12c6"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 22,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/45601a"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 23,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/e924e6"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 24,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/8f209a"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 25,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/5e3a73"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 26,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/474645"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 27,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/c984bf"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 28,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/392537"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 29,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/602b9e"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 30,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/372c93"
+    },
+    {
+      "Categoria": "Stickers",
+      "id": 31,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/a7c272"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 32,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/c70a4d"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 33,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/501fe1"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 34,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/35185e"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 35,
+      "title": "Producto",
+      "url": "https://via.placeholder.com/150/c96cad"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 36,
+      "title": "Productos",
+      "url": "https://via.placeholder.com/150/4d564d"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 37,
+      "title": "Productoss",
+      "url": "https://via.placeholder.com/150/ea51da"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 38,
+      "title": "Productos",
+      "url": "https://via.placeholder.com/150/4f5b8d"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 39,
+      "title": "Productos",
+      "url": "https://via.placeholder.com/150/1e71a2"
+    },
+    {
+      "Categoria": "Extras",
+      "id": 40,
+      "title": "Productos",
+      "url": "https://via.placeholder.com/150/3a0b95"
+    },
+    {
+        "albumId": "Extras",
+        "id": 41,
+        "title": "Productos",
+        "url": "https://via.placeholder.com/150/659403"
+      }
+  ]
